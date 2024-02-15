@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:ital,wght@0,400;0,700;1,500&display=swap');
+*{
+    margin: 0;padding: 0;box-sizing: border-box;}
+    body{font-family: 'Poppins', sans-serif;
+        font-family: 'Roboto', sans-serif;}
+        h1 h2 h3 h4 h5 h6{font-weight: 700;}
+    .con{
+        width: 1200px;margin: auto;
+    }
+    .top{
+        background: #FEF7F6;
+        padding: 10px;
+    }
+    .a{
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+    }
+    ul{
+        list-style: none;
+    }
+    header{
+        padding: 20px 0; 
+    }
+    .banner{ 
+        background: #FEF7F6 ;
+    }
+    .c{
+        width:100%; height: 400px;
+    }
+    .b{
+       padding-top: 100px; line-height: 30px;
+    }
+    h1{
+        padding: 0 0 0 200px; 
+    }
+    .all{
+        padding: 0 0 0 200px; text-indent: 30px
+    }
+    .sh{
+        background: red;color: white;padding-left: 20px; position: relative; left: 50%; top: 20%; 
+    }
+    .sh:hover{background: white;color: black;}
+    .d{
+        text-align: center;padding: 40px;
+    }
+   h5{
+    padding: 20px 0 20px 80px;
+   }
+   .b1{
+    padding: 0 0 0 200px; text-indent: 60px
+   }
+   .banner2{
+    background: #EAE2D8;
+   }
+   .box{
+    border: 2px solid gray;  width: 25%;padding-top: 20px;padding-bottom: 20px;box-shadow: 0 0 3px 0;
+   }
+  .f{
+    width:60%;padding-left: 80px
+  }
+  .del{
+    padding: 60px 0;
+  }
+  .g{
+    padding:15px 0 10px 40px
+  }
+  .h{
+    color: #888888;padding-left: 60px;
+  }
+  .g1{
+    padding:15px 0 20px 70px
+  }
+  .a1{
+    padding-bottom: 10px;
+  }
+  .i2{
+    padding: 20px 0 10px 0px; 
+  }
+  .i1{
+    padding-right: 82.6px;
+  }
+  .j{
+    border-top: lightgray solid 2px; padding-top: 20px;padding-bottom: 20px;
+  }
+ .k{
+    padding-bottom: 60px;
+ }
+ .link{
+    background: #E9E2D8;
+ }
+ .l{
+    padding: 60px 0 70px 0;
+ }
+ .l1{
+    padding-top: 15px;
+ }
+ h2{
+    padding-bottom:10px;
+ }
+.box{border: 2px solid #E9E2D8; margin-top:5px ; font-size: 15px;}
+.m{background: white; width:60%;}
+.m:hover{
+    background: #FF5353; color: white;
+}
+.n{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    border-top:2px solid lightgray ;
+}
+footer{
+    background: #E9E2D8;
+}
